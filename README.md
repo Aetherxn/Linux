@@ -8,9 +8,9 @@ I later used Ubuntu as the host OS for my security homelab setup running virtual
 
 After moving to a MacBook Pro with Apple Silicon, I switched from VirtualBox to UTM.
 
-![UTM](screenshots/utm.png)
+![UTM](utm.PNG)
 
-![Ubuntu Linux](screenshots/ubuntu-linux.png)
+![Ubuntu Linux](ubuntu-linux.PNG)
 
 This repo is just a small collection of notes, commands, screenshots, and random things I learn while using Linux.
 
