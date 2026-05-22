@@ -16,7 +16,7 @@ This repo is just a small collection of notes, commands, screenshots, and random
 
 ---
 
-## Stuff I've Practiced
+## Experience So Far
 
 - Installing and configuring Ubuntu
 - Using Linux as a daily OS
