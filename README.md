@@ -1,4 +1,3 @@
-````markdown
 # Ubuntu Linux Notes
 
 ## About
@@ -50,4 +49,3 @@ sudo apt autoremove
 ## Current Goal
 
 Get more comfortable using Linux daily and keep learning as I go.
-````
