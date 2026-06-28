@@ -1,0 +1,22 @@
+# File Commands
+
+- `ls` — list directory contents
+- `ls -al` — list all files (including hidden files) in long format
+- `cd dir` — change to directory `dir`
+- `cd` — change to your home directory
+- `pwd` — print the current working directory
+- `mkdir dir` — create directory `dir`
+- `rm file` — delete `file`
+- `rm -r dir` — delete directory `dir` and its contents recursively
+- `rm -f file` — force delete `file` (don't prompt)
+- `rm -rf dir` — force delete directory `dir` and all of its contents
+- `cp file1 file2` — copy `file1` to `file2`
+- `mv file1 file2` — move or rename `file1` to `file2`
+- `ln -s file link` — create a symbolic link named `link` pointing to `file`
+- `touch file` — create an empty file or update its timestamp if it already exists
+- `cat > file` — write standard input to `file` (press <kbd>Ctrl</kbd>+<kbd>D</kbd> to finish)
+- `more file` — view the contents of a file one screen at a time
+- `less file` — view the contents of a file with forward and backward scrolling
+- `head file` — display the first 10 lines of `file`
+- `tail file` — display the last 10 lines of `file`
+- `tail -f file` — display the end of `file` and continue showing new lines as they are added
